@@ -23,18 +23,18 @@ showcasing my repository and progress in my programming journey.
   Openframeworks related stuff.
   [go to repo](http://emretekinalp.github.io/openFrameworks/)
 
-### java
+### Java
   Java related stuff.
-  [go to repo](http://emretekinalp.github.io/java/)
+  [go to repo](http://emretekinalp.github.io/Java/)
 
-### maya
-  Maya related stuff.
-  [go to repo](http://emretekinalp.github.io/maya/)
-
-### unity
+### Unity
   Unity related stuff.
-  [go to repo](http://emretekinalp.github.io/unity/)
+  [go to repo](http://emretekinalp.github.io/Unity/)
 
 ### GameEngine
   GameEngine related stuff.
   [go to repo](http://emretekinalp.github.io/GameEngine/)
+
+### Maya
+  Maya related stuff.
+  [go to repo](http://emretekinalp.github.io/Maya/)
