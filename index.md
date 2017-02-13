@@ -6,14 +6,15 @@ showcasing my repository and progress in my programming journey.
 <br>
 <br>
 
-## Table of content
------------------
+<h1 style="text-align:center; background-color:pink"> Table of content </h1>
 
-### Qt 
+<br>
+
+<h3 style="background-color:red"> Qt </h3>
   Qt related stuff.
   [go to repo](http://emretekinalp.github.io/Qt/)
 
-### PythonLibrary 
+<h3 style="background-color:blue"> PythonLibrary </h3>
   Python related stuff.
   [go to repo](http://emretekinalp.github.io/PythonLibrary/)
 
