@@ -4,17 +4,17 @@ This is my personal website based on github pages,
 showcasing my repository and progress in my programming journey.
 
 <br>
+
+<h2 style="text-align:center;"> Table of content </h2>
+-------------------------
+
 <br>
 
-<h1 style="text-align:center; background-color:pink"> Table of content </h1>
-
-<br>
-
-<h3 style="background-color:red"> Qt </h3>
+<h3> Qt </h3>
   Qt related stuff.
   [go to repo](http://emretekinalp.github.io/Qt/)
 
-<h3 style="background-color:blue"> PythonLibrary </h3>
+<h3> PythonLibrary </h3>
   Python related stuff.
   [go to repo](http://emretekinalp.github.io/PythonLibrary/)
 
