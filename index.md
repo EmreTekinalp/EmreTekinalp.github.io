@@ -3,6 +3,8 @@
 This is my personal website based on github pages,
 showcasing my repository and progress in my programming journey.
 
+<br>
+<br>
 
 ## Table of content
 -----------------
