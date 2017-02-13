@@ -5,8 +5,7 @@ showcasing my repository and progress in my programming journey.
 
 
 ## Table of content
-
-
+-----------------
 
 ### Qt 
   Qt related stuff.
