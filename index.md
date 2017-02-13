@@ -21,7 +21,7 @@ showcasing my repository and progress in my programming journey.
 
 ### openframeworks
   Openframeworks related stuff.
-  [go to repo](http://emretekinalp.github.io/openframeworks/)
+  [go to repo](http://emretekinalp.github.io/openFrameworks/)
 
 ### java
   Java related stuff.
