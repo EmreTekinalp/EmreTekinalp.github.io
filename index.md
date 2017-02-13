@@ -1,39 +1,41 @@
-## Welcome to GitHub Pages
+# Welcome to EmreTekinalp.github.io
 
-You can use the [editor on GitHub](https://github.com/EmreTekinalp/EmreTekinalp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my personal website based on github pages,
+showcasing my repository and progress in my programming journey.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Table of content
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Qt 
+  Qt related stuff.
+  [go to repo](http://emretekinalp.github.io/Qt/)
 
-- Bulleted
-- List
+### PythonLibrary 
+  Python related stuff.
+  [go to repo](http://emretekinalp.github.io/PythonLibrary/)
 
-1. Numbered
-2. List
+### OpenCV
+  OpenCV related stuff.
+  [go to repo](http://emretekinalp.github.io/OpenCV/)
 
-**Bold** and _Italic_ and `Code` text
+### openframeworks
+  Openframeworks related stuff.
+  [go to repo](http://emretekinalp.github.io/openframeworks/)
 
-[Link](url) and ![Image](src)
-```
+### java
+  Java related stuff.
+  [go to repo](http://emretekinalp.github.io/java/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### maya
+  Maya related stuff.
+  [go to repo](http://emretekinalp.github.io/maya/)
 
-### Jekyll Themes
+### unity
+  Unity related stuff.
+  [go to repo](http://emretekinalp.github.io/unity/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmreTekinalp/EmreTekinalp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-[Qt link](http://emretekinalp.github.io/Qt/)
+### GameEngine
+  GameEngine related stuff.
+  [go to repo](http://emretekinalp.github.io/GameEngine/)
