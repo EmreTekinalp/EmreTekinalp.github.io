@@ -3,15 +3,18 @@
 This is my personal website based on github pages,
 showcasing my repository and progress in my programming journey.
 
+<br>
 
-## Table of content
------------------
+<h2 style="text-align:center;"> Table of content </h2>
+-------------------------
 
-### Qt 
+<br>
+
+<h3> Qt </h3>
   Qt related stuff.
   [go to repo](http://emretekinalp.github.io/Qt/)
 
-### PythonLibrary 
+<h3> PythonLibrary </h3>
   Python related stuff.
   [go to repo](http://emretekinalp.github.io/PythonLibrary/)
 
