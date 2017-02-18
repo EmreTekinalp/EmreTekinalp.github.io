@@ -12,7 +12,7 @@ showcasing my repository and progress in my programming journey.
 
 <h3> Qt </h3>
   Qt related stuff.
-  [go to repo](http://emretekinalp.github.io/Qt/)
+  [go to repo](/1.0.0/content/Qt/)
 
 <h3> PythonLibrary </h3>
   Python related stuff.
