@@ -10,17 +10,21 @@ showcasing my repository and progress in my programming journey.
 
 <br>
 
-<h3> Qt </h3>
+### Qt
   Qt related stuff.
   [go to repo](/1.0.0/content/Qt/)
 
-<h3> PythonLibrary </h3>
+### PythonLibrary
   Python related stuff.
-  [go to repo](http://emretekinalp.github.io/PythonLibrary/)
+  [go to repo](/1.0.0/content/PythonLibrary/)
+
+### Maya
+  Maya related stuff.
+  [go to repo](/1.0.0/content/Maya/)
 
 ### OpenCV
   OpenCV related stuff.
-  [go to repo](http://emretekinalp.github.io/OpenCV/)
+  [go to repo](/1.0.0/content/OpenCV/)
 
 ### openframeworks
   Openframeworks related stuff.
@@ -37,7 +41,3 @@ showcasing my repository and progress in my programming journey.
 ### GameEngine
   GameEngine related stuff.
   [go to repo](http://emretekinalp.github.io/GameEngine/)
-
-### Maya
-  Maya related stuff.
-  [go to repo](http://emretekinalp.github.io/Maya/)
